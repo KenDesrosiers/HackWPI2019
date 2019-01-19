@@ -1,4 +1,5 @@
 package com.example.ken.newtest;
+//Ken and Jason's Hack@WPI 2019 project
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
